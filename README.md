@@ -23,7 +23,7 @@ I'm an independent AI/ML and Software Engineer focused on integrating large lang
 
 ### 🧠 Featured Projects
 
-**[RAG-Based AI Voice & Text Assistant](https://github.com/UV012)**
+**[RAG-Based AI Voice & Text Assistant](https://github.com/UV012/voice-rag-assistant)**
 End-to-end enterprise assistant combining a Python scraping + embedding pipeline (BeautifulSoup, Sentence-Transformers, ChromaDB), a Node.js/Express backend powered by Google Gemini, and a browser widget with Web Speech API for hands-free voice interaction.
 
 **[resume_parser](https://github.com/UV012/resume_parser)**
