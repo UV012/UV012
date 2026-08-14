@@ -65,7 +65,7 @@ A suite of modular Bash scripts automating Linux user provisioning, monitoring, 
 
 ### 📫 Get in Touch
 
-- **Portfolio:** [https://portfolio-nine-dun-53.vercel.app/](https://portfolio-nine-dun-53.vercel.app/)
+- **Portfolio:** [Live Site](https://portfolio-nine-dun-53.vercel.app/)
 - **Email:** utkarshvaibhav888@gmail.com
 - **LinkedIn:** [utkarsh-vaibhav-586182208](https://www.linkedin.com/in/utkarsh-vaibhav-586182208/)
 - **LeetCode:** [UV012](https://leetcode.com/u/UV012/)
