@@ -54,10 +54,9 @@ A suite of modular Bash scripts automating Linux user provisioning, monitoring, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=UV012&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UV012&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-beryl-psi-52.vercel.app/api?username=UV012&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-beryl-psi-52.vercel.app/api/top-langs/?username=UV012&layout=compact&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UV012&hide_border=true" />
 </p>
@@ -66,7 +65,7 @@ A suite of modular Bash scripts automating Linux user provisioning, monitoring, 
 
 ### 📫 Get in Touch
 
-- **Portfolio** [https://portfolio-nine-dun-53.vercel.app/](https://portfolio-nine-dun-53.vercel.app/)
+- **Portfolio:** [https://portfolio-nine-dun-53.vercel.app/](https://portfolio-nine-dun-53.vercel.app/)
 - **Email:** utkarshvaibhav888@gmail.com
 - **LinkedIn:** [utkarsh-vaibhav-586182208](https://www.linkedin.com/in/utkarsh-vaibhav-586182208/)
 - **LeetCode:** [UV012](https://leetcode.com/u/UV012/)
