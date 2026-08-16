@@ -1,53 +1,47 @@
 <h1 align="center">Hi, I'm Utkarsh Vaibhav 👋</h1>
-<h3 align="center">AI/ML Engineer & Software Developer | Building intelligent, production-grade systems</h3>
+<h3 align="center">AI/ML & Software Engineer | Building intelligent, production-grade systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/utkarsh-vaibhav-586182208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://leetcode.com/u/UV012/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"></a>
-  <a href="mailto:utkarshvaibhav888@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://portfolio-nine-dun-53.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/utkarsh-vaibhav-586182208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/UV012/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="mailto:utkarshvaibhav888@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm an independent AI/ML and Software Engineer focused on integrating large language models and RAG pipelines into real-world web applications. I work across the full stack — from Python-based ML/data pipelines to .NET and Node.js/Express backends — and I care about building systems that are production-ready, not just proof-of-concepts.
+I'm a full-stack Software and AI/ML Engineer focused on integrating large language models and RAG pipelines into real-world applications. I work across the stack—from Python-based ML/data pipelines to .NET and Node.js/Express backends. I care deeply about building reliable, production-ready systems and thrive in collaborative, in-office environments where discipline and peer-driven problem-solving drive innovation. 
 
-- 🔭 Currently building **RAG-based AI assistants** and automation pipelines for enterprise use cases
-- 🌱 Deepening my expertise in **LLM integration, embeddings, and vector search**
-- 💼 Previously: Software Engineer @ eAutomationHub · Lead Backend Developer @ Cyra
-- 🎓 B.Tech in Computer Science & Engineering
-- 📜 60+ certifications across AI, Data Analytics, Cloud, and Web Development
+- 🔭 **Currently Focusing On:** Building enterprise RAG-based AI assistants, automation pipelines, and publishing a dedicated **Java DSA & LeetCode** repository.
+- 🌱 **Deepening Expertise In:** LLM integration, embeddings, and vector search.
+- 💼 **Experience:** Software Developer @ Mass Infosolutions · Previously Software Engineer @ eAutomationHub · Lead Backend Developer @ Cyra.
+- 🎓 **Education & Upskilling:** B.Tech in Computer Science & Engineering. Completed 60+ professional certifications (including deeplearning.ai, IBM AI Developer, and Google Data Analytics).
 
 ---
 
 ### 🧠 Featured Projects
 
-**[RAG-Based AI Voice & Text Assistant](https://github.com/UV012/voice-rag-assistant)**
-End-to-end enterprise assistant combining a Python scraping + embedding pipeline (BeautifulSoup, Sentence-Transformers, ChromaDB), a Node.js/Express backend powered by Google Gemini, and a browser widget with Web Speech API for hands-free voice interaction.
-
-**[resume_parser](https://github.com/UV012/resume_parser)**
-Lightweight Python engine that converts unstructured resumes (PDF/DOCX) into schema-validated JSON using PyMuPDF, Regex, and Pydantic.
-
-**[inventory-management-grafana_populator](https://github.com/UV012/inventory-management-grafana_populator)**
-Production-style automation pipeline generating realistic IT asset inventory data, storing it in MySQL, and visualizing it through Grafana dashboards.
-
-**[ansible-windows-inventory_collector](https://github.com/UV012/ansible-windows-inventory_collector)**
-Automation solution that collects detailed system information from Windows hosts and centralizes it in MySQL for inventory management.
-
-**[linux-user-management_scripts](https://github.com/UV012/linux-user-management_scripts)**
-A suite of modular Bash scripts automating Linux user provisioning, monitoring, and remote command execution.
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[🤖 AI Candidate Avatar](https://github.com/UV012/talk-to-my-resume)** | Turns any resume into a first-person AI chatbot recruiters can interview 24/7. Grounded strictly in real experience with inline citations, per-candidate vector isolation, and zero-login rate limiting. | *Next.js, TypeScript, Supabase, pgvector, Gemini* |
+| **[🎙️ RAG Voice & Text Assistant](https://github.com/UV012/voice-rag-assistant)** | End-to-end enterprise assistant featuring a scraping/embedding pipeline, an LLM backend, and a browser widget leveraging the Web Speech API for hands-free voice interaction. | *Python, Node.js, Express, ChromaDB* |
+| **[📄 Resume Parser & ATS Matcher](https://github.com/UV012/resume_parser)** | Lightweight Python engine that extracts data from unstructured resumes (PDF/DOCX) into strictly schema-validated JSON. | *Python, PyMuPDF, Pydantic, Regex* |
+| **[📊 Inventory Management Pipeline](https://github.com/UV012/inventory-management-grafana_populator)** | Production-style automation pipeline that generates, stores, and visualizes realistic IT asset inventory metrics. | *Python, MySQL, Grafana* |
+| **[⚙️ Ansible Windows Collector](https://github.com/UV012/ansible-windows-inventory_collector)** | Automation playbook that gathers deep system information from Windows hosts and centralizes it for inventory management. | *Ansible, MySQL, Windows* |
+| **[🐧 Linux User-Management Scripts](https://github.com/UV012/linux-user-management_scripts)** | A modular suite of Bash scripts for automating Linux user provisioning, system monitoring, and remote command execution. | *Bash, Linux, SSH* |
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages:** Java · Python · C · C++ · JavaScript
-**AI/ML:** LLM Integration (Gemini API) · RAG Architecture · Sentence-Transformers · ChromaDB
-**Backend:** Node.js/Express · .NET · RESTful APIs · FastAPI
-**DevOps & Monitoring:** Docker · Kubernetes · Ansible · Grafana
-**Data:** MySQL · Pandas · Matplotlib · Tableau
-**Tools:** Git · GitHub · Linux · IntelliJ IDEA
+- **Languages:** Java, Python, C, C++, JavaScript
+- **AI/ML:** Gemini API, RAG Architecture, Sentence-Transformers, ChromaDB
+- **Backend & APIs:** Node.js, Express, .NET, FastAPI, RESTful APIs
+- **DevOps & Infrastructure:** Docker, Kubernetes, Ansible, VirtualBox, Linux, Grafana
+- **Data & Databases:** MySQL, Pandas, Matplotlib, Tableau
+- **Tools:** Git, GitHub, IntelliJ IDEA
 
 ---
 
@@ -62,12 +56,4 @@ A suite of modular Bash scripts automating Linux user provisioning, monitoring, 
 </p>
 
 ---
-
-### 📫 Get in Touch
-
-- **Portfolio:** [Live Site](https://portfolio-nine-dun-53.vercel.app/)
-- **Email:** utkarshvaibhav888@gmail.com
-- **LinkedIn:** [utkarsh-vaibhav-586182208](https://www.linkedin.com/in/utkarsh-vaibhav-586182208/)
-- **LeetCode:** [UV012](https://leetcode.com/u/UV012/)
-
-<p align="center"><i>Open to Software Engineering / AI-ML Engineering opportunities.</i></p>
+<p align="center"><i>Open to Software Engineering and AI-ML Engineering opportunities.</i></p>
